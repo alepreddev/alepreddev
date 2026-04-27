@@ -1,11 +1,13 @@
-## Hi there 👋
-<h3>Web Developer full stack</h3>
+## Hi, i'm Jose Arocha (Alepreddev) 👋
+
+<h3>Web Developer</h3>
+
+## My stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,php,laravel,nodejs,react,postgres" />
-  </a>
 </p>
+
 <!--
 **alepreddev/alepreddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
