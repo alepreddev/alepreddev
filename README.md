@@ -1,5 +1,11 @@
 ## Hi there 👋
 <h3>Web Developer full stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **alepreddev/alepreddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
