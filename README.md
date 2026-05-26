@@ -4,7 +4,7 @@
 
 ## My stack
 
-<p align="left">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,php,laravel,postgres" />
 </p>
 
