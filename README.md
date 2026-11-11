@@ -8,14 +8,12 @@
 - 😄 Pronouns: ...
 
 ## My stack
-
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,php,laravel,rust,tauri" />
 </p>
 
 ## Databases
-
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb" />
 </p>
 <!--
