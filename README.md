@@ -10,7 +10,7 @@
 ## My stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,php,laravel,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,php,laravel,rs,postgres" />
 </p>
 
 <!--
