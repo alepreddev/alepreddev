@@ -10,9 +10,14 @@
 ## My stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,php,laravel,rust,tauri,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,php,laravel,rust,tauri" />
 </p>
 
+## Databases
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb" />
+</p>
 <!--
 **alepreddev/alepreddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
